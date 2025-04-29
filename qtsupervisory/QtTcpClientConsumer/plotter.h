@@ -21,7 +21,6 @@ public:
 public slots:
     void paintEvent(QPaintEvent *e);
     void mudaDado(QString str);
-    void teste();
 signals:
 };
 

@@ -60,9 +60,3 @@ void Plotter::mudaDado(QString str){
     qDebug()<<n;
     repaint();
 }
-
-void Plotter::teste()
-{
-    //lista={"0","1","2","3","4","5"};
-    qDebug()<<lista;
-}
